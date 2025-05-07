@@ -31,7 +31,9 @@ console.log("------variable declared using const");
 // variable declared using var 
 
 console.log("-----varibale declared using var keywork----");
+// redeclared is allowed in var 
 var aa=10;
+var aa=20;
 console.log(aa);
 
 
