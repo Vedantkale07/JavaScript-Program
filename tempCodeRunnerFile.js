@@ -1,1 +1,1 @@
-console.log(tyoeof (check));
+console.log(result)
