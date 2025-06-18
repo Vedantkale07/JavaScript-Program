@@ -42,7 +42,5 @@ console.log(newNo);
 
 console.log('\n\n');
 
-() => {
-    const add= 3+3;
-    console.log(add);
-}
+
+

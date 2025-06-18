@@ -7,12 +7,12 @@ let array=[1,2,3,4,11,12];
 // }
 
 // let no=0;
-
 // while (no<=10) {
 //     console.log(no)
 //     no++
 // }
 
+// do while loop 
 let no=0;
 do {
     console.log(no)
