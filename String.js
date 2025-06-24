@@ -4,4 +4,5 @@ console.log(name);
 let numValue='gaurav';
 console.log(numValue);
 
-let nam='vedant '
+let nam='vedant ';
+
