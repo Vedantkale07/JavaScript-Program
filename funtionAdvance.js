@@ -1,15 +1,15 @@
 const user = {
-    username: "vedant",
-    price:"999",
+  username: "vedant",
+  price: "999",
 
-    welcomeMessage: function(){
-        console.log(`${this.username}, welcome to website`)
-        console.log(this)
-    }
-}
+  welcomeMessage: function () {
+    console.log(`${this.username}, welcome to website`);
+    console.log(this);
+  },
+};
 
-// user.welcomeMessage()
-// user.username="sam"
-// user.welcomeMessage()
+user.welcomeMessage();
+// user.username = "sam";
+// user.welcomeMessage();
 
-console.log(this)
+// console.log(this);

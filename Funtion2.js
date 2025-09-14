@@ -1,3 +1,3 @@
 setTimeout(() => {
-    alert("please login!!!");
-}, 3000);
+  alert("please login!!!");
+}, 2000);
