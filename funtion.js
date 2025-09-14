@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+// <<<<<< HEAD
 function addtion(num1, num2){
     let result=num1+num2
     console.log("result:",result)
@@ -20,7 +20,7 @@ function multiplication(no1, no2){
 
 addtion(23,23)
 evenOdd(11)
-=======
+// =======
 function addtion(num1, num2){
     let result=num1+num2
     console.log("result:",result)
@@ -43,5 +43,5 @@ function multiplication(no1, no2){
 
 addtion(23,23)
 evenOdd(11)
->>>>>>> 040f0e2 (Your local changes before rebase)
+// >>>>>>> 040f0e2 (Your local changes before rebase)
 multiplication(12,12)
