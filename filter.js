@@ -1,3 +1,12 @@
+
+// The filter() method is used to create a new array containing
+//  only those elements from the original array that 
+//  satisfy a given condition (return true in the callback function).
+
+// ✅ Returns a new array – does not modify the original array.
+// ✅ Uses a callback function – keeps elements where callback returns true.
+// ✅ Works well with other array methods like map() and reduce() for chaining.
+
 const books = [
   {
     title: "java",
