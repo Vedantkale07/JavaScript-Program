@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 //singleton  -> 
 
 // object literals 
-
+  
 const mysym= Symbol("key")
 const jsUser= {
     name:"javascript",
