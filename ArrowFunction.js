@@ -1,7 +1,6 @@
 // <<<<<<< HEAD
 // arrow function syntax  
 () =>{}
-
 const addTwo=(no1, no2) => {
     return no1+no2
 }
@@ -24,7 +23,7 @@ console.log(add(5,5))
 //     console.log(this)
 // }
 
-=======
+//=======
 // arrow function syntax
 () =>{}
 
